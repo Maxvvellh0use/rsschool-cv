@@ -19,3 +19,9 @@ let a = new Date();
 			alert('2020');
 		}
 ```
+## Experience:
+*Started developing a "Create resume" app. Developed app for calculation cost of booking. Developed cascade menu.*
+## Education: 
+Samara State Transport University
+## English:
+Level - A2
