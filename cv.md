@@ -5,3 +5,17 @@ email adress - pavlovmark100@gmail.com
 ## Summary:
 *I want to be a great js frontend developer. And i dream to create 
 complex interface.* 
+## Skills:
+1.  HTML 
+2.  CSS
+3.  JS (Basic), 
+4.  React (Basic)
+5.  Redux (Basic)
+
+## Code examples:
+```
+let a = new Date();
+		if (a.getFullYear() > 2019) {
+			alert('2020');
+		}
+```
