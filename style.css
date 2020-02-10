@@ -1,0 +1,98 @@
+body {
+    font-family: 'Exo 2', sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+h1 {
+    background-color: antiquewhite;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 7px;
+}
+
+.avatar {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.contacts {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    background-color: antiquewhite;
+    padding-bottom: 20px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+.summary {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    background-color: antiquewhite;
+    padding-bottom: 20px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.skills {
+    background-color: antiquewhite;
+    padding-bottom: 10px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.code-examples {
+    background-color: antiquewhite;
+    padding-bottom: 10px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.experience {
+    background-color: antiquewhite;
+    padding-bottom: 10px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.education {
+    background-color: antiquewhite;
+    padding-bottom: 10px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.english {
+    background-color: antiquewhite;
+    padding-bottom: 20px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.red {
+    color: red;
+}
+
+.blueviolet {
+    color: blueviolet;
+}
+
+.purple {
+    color: purple;
+}
+
+.blue {
+    color: blue;
+}
+
+.left {
+    text-align: left;
+    margin-left: 44%;
+    margin-right: 44%;
+}
+
+.left-code {
+    text-align: left;
+    margin-left: 30%;
+}
